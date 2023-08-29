@@ -8,7 +8,7 @@
     <string name="multiply">X</string>
     <string name="subtract">-</string>
     <string name="addition">+</string>
-    <string name="calculate">=</string>
+    <string name="equals">=</string>
     <string name="decimal">.</string>
     <string name="zero">0</string>
     <string name="one">1</string>
@@ -20,4 +20,9 @@
     <string name="seven">7</string>
     <string name="eight">8</string>
     <string name="nine">9</string>
+    <string name="topViewSize">80dp</string>
+    <string name="topViewPadding">5dp</string>
+    <string name="bWeights">0.25</string>
+    <string name="bTextSize">30dp</string>
+    <string name="bZeroWeight">0.50</string>
 </resources>
