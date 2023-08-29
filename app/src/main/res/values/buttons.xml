@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buttonWeights">0.25dp</string>
+    <string name="buttonFontSize">30dp</string>
+</resources>
